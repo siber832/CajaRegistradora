@@ -1,0 +1,2 @@
+# CajaRegistradora
+Caja Registradora
