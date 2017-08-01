@@ -1,1 +1,2 @@
 # CajaRegistradora
+# Operador-Sobrecarga
